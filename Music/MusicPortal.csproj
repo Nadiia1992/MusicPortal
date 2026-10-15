@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Music.BLL\MusicPortal.BLL.csproj" />
+  </ItemGroup>
+
 </Project>
